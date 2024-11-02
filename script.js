@@ -1,5 +1,5 @@
 function firstWord(s) {
-  // your code here
+  // your code herej
 }
 
 // Do not change the code below
